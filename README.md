@@ -299,6 +299,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/leefity">
+                    <img src="https://avatars.githubusercontent.com/u/159531121?s=400&u=6e4d746bad4d0b8db9061ee2893c54a0d0ca1f25&v=4" width="100px;"
+                        alt="Nemani Sai Harini" />
+                    <br />
+                    <sub>
+                        <b>Nemani Sai Harini</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/RaiyanChowdhury225">
                     <img src="https://avatars.githubusercontent.com/u/214487419?v=4" width="100px;"
                         alt="Raiyan Chowdhury" />
